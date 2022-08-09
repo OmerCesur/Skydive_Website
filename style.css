@@ -1,0 +1,98 @@
+.jumbotron {
+    text-align: center;
+    background-color: #eceeef !important;
+    border: none !important;
+}
+.jumbotron-header{
+    font-size: 4rem;
+    font-weight: 400;
+    line-height: 1.1;
+}
+.jumbotron-paragraph{
+    font-weight: 500;
+}
+.sectionLight{
+    background-color: #eceeef !important;
+    padding: 2rem;
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+.littleboy2{
+    border-radius: 5px;
+    height: 285px;
+    display: block;
+    margin: auto;
+}
+.skytm{
+    box-shadow: -2px -2px 9px 1px rgba(0, 0, 0, .5);
+}
+.coolStuffDive{
+    margin-top: 20px;
+}
+.coolStuffbtn{
+    background-color: red;
+    color: rgb(121, 115, 115);
+    display: block;
+    margin: auto;
+}
+
+.coolStuffbtn:hover{
+    color: white;
+}
+h5.modal-title{
+    margin: auto;
+}
+button.btn-close{
+    margin-left: 0px!important;
+}
+.modalFormWrapper{
+    padding: 2rem;
+}
+.skytm21{
+    display: block;
+    margin: auto;
+}
+.imgCenter{
+    display: block;
+    margin: auto;
+    height: 260px;
+}
+.last1{
+    width: 347px;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 86%;
+}
+.footerimg{
+    display: block;
+    margin: auto;
+    padding-top: 15px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius:45px ;
+    border-bottom-right-radius:45px ;
+    height: 90%;
+    
+}
+.fab{
+    margin: 50px;
+}
+
+.fa-facebook-square{
+    color: #3b5998;
+}
+.fa-google-plus-square{
+    color: #c32f10;
+}
+.fa-instagram{
+    color: #ffffff;
+}
+.socialWrapper{
+    margin: auto;
+}
